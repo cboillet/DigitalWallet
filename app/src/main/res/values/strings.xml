@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DigitalWallet</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pot_list">PotListActivity</string>
+    <string name="facebook_app_id">924216474363098</string>
+
+    <!--Options de droit… -->
+    <string name="rightSelect">Select rights for the user</string>
+    <string name="right1">edit users</string>
+    <string name="right2">edit amount</string>
+    <string name="right3">send money</string>
+    <string name="right4">use pot money</string>
+
+</resources>

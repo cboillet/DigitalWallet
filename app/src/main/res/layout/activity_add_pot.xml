@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:orientation="vertical"
+            android:layout_height="fill_parent"
+            android:weightSum="1">
+
+            <EditText
+                android:id="@+id/PotTitleEdit"
+                android:hint="name"
+                android:layout_width="match_parent"
+                android:layout_marginTop="15dp"
+                android:layout_height="wrap_content"
+                >
+            </EditText>
+
+            <EditText
+                android:id="@+id/PotPurposeEdit"
+                android:hint="description"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_marginTop="15dp"
+                android:layout_below="@+id/PotTitleEdit">
+            </EditText>
+
+            <EditText
+                android:id="@+id/PotAmountEdit"
+                android:layout_height="wrap_content"
+                android:hint="amount"
+                android:inputType="number"
+                android:layout_width="fill_parent"
+                android:layout_marginTop="15dp"
+                android:layout_below="@+id/PotPurposeEdit">
+            </EditText>
+
+
+            <ListView
+                    android:id="@+id/listView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="250dp"
+                    android:divider="@null"
+                    android:dividerHeight="7dp"
+                    android:layout_centerHorizontal="true"
+                android:layout_weight="0.61" />
+
+            <Button
+                android:id="@+id/ButtonCreatePot"
+                android:text="create"
+                android:onClick="createPot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="4dp"
+                android:layout_gravity="center_horizontal">
+            </Button>
+
+        </LinearLayout>
+
+
+
+</RelativeLayout>

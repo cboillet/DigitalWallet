@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/camille/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_3a7999e074cdf43c148b4a48ef5785f6aefd2f04/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_3a7999e074cdf43c148b4a48ef5785f6aefd2f04.jar" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f381fffe5df4f163c511209119bb8ba78e761fd6">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdf43b20ac0b2cecdf36b8807984f1a3d548caa2/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_c90f0c392afc009c45b339784a69be65fd41ff9b/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_3982603ded0210ab3093a7942303ded083cf6411/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_c90f0c392afc009c45b339784a69be65fd41ff9b.jar" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_3982603ded0210ab3093a7942303ded083cf6411.jar" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_635fe1e4101bde34ee90850ce120a9e783ef7d3a/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_635fe1e4101bde34ee90850ce120a9e783ef7d3a.jar" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.13.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ad4d4c5914b7b25e51e66f8e2d1b842c67dd63a9">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.13.1_873fcd718c3489c5ede9516802eaf0f624d4cce9/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_b60ea07dc1cdf56f75e54422ef530ea7d984ae4b/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/com.android.support-design-23.4.0_387e5d6a72c2576fa8cf4cfeee889a8f67247cab.jar" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-23.4.0_b60ea07dc1cdf56f75e54422ef530ea7d984ae4b.jar" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_387e5d6a72c2576fa8cf4cfeee889a8f67247cab/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6eb30544b98e5f0ae3e294cc772ca91fbf701d2">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4ab91dc2a48cde8fbb42d33c73f2bbad921e0ca8/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_0fe47bc60f334892b46ccb1fd10144614263c21f/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_0fe47bc60f334892b46ccb1fd10144614263c21f.jar" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_7aff856346d6ecc9ec3719741734e13e459f9182.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_ca5fb6c533d484ec4a49ddd76eced70dddccac2e.jar" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_7aff856346d6ecc9ec3719741734e13e459f9182/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ca5fb6c533d484ec4a49ddd76eced70dddccac2e/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/com.android.support-customtabs-23.4.0_f2a55e679999659afc787c3a6ccc0bdfbf34b68e.jar" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_f2a55e679999659afc787c3a6ccc0bdfbf34b68e/classes.dex" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_b8be5144022e8fb2366e72814320a8797abb6dae/classes.dex" />
+    </item>
+    <item
+        jar="/home/camille/gitlab/DigitalWallet/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26645b518694e20a97fc19a6a3c3933c0cc41bc1">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-android-sdk-4.12.1_4b39e662f8b7ade3d53ead8a6b98358c40245073.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/camille/gitlab/DigitalWallet/app/build/intermediates/pre-dexed/release/bolts-applinks-1.4.0_b8be5144022e8fb2366e72814320a8797abb6dae.jar" />
+    </item>
+
+</items>

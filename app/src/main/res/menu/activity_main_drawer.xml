@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/nav_myaccount"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="My Account" />
+            <item
+                android:id="@+id/nav_myfriends"
+                android:icon="@drawable/ic_menu_share"
+                android:title="My Friends" />
+            <item
+                android:id="@+id/nav_notifications"
+                android:icon="@drawable/ic_menu_notification"
+                android:title="Notifications" />
+        </menu>
+    </item>
+
+    <item android:title="Payment">
+        <menu>
+            <item
+                android:id="@+id/nav_pot"
+                android:icon="@drawable/ic_menu_pot"
+                android:title="Pots" />
+        </menu>
+    </item>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="About"/>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_settings_power_black_24dp"
+                android:title="Logout"/>
+        </menu>
+    </item>
+
+    </group>
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rightslist">
+        <item>@string/right1</item>
+        <item>@string/right2</item>
+        <item>@string/right3</item>
+        <item>@string/right4</item>
+    </string-array>
+
+</resources>

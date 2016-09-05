@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="utc.digitalwallet.com.PotsActivity"
+    tools:showIn="@layout/pots">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_pots"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/medium_red"
+        android:title="My Pots">
+
+        <TextView
+            android:id="@+id/pot_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="My Pots"
+            android:textAlignment="center"
+            android:textSize="34dp"
+            android:layout_marginLeft="14dp"
+            android:textColor="@color/cardview_light_background" />
+
+    </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+
+
+
+</LinearLayout>
